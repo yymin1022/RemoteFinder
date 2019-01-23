@@ -1,0 +1,26 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+	android:gravity="center">
+
+    <Button
+		android:text="@string/find_blink_led"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:onClick="ringLED"/>
+	
+	<Button
+		android:text="@string/find_ring_vib"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:onClick="ringVIB"/>
+	
+	<Button
+		android:text="@string/find_exit"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:onClick="exit"/>
+
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RemoteFinder</string>
+	<string name="cancel">Cancel</string>
+	<string name="canceled">Canceled.</string>
+	<string name="ok">OK</string>
+	
+	<string name="bt_data_failed">An error occured while transfering data. Exit.</string>
+	<string name="bt_disabled">Bluetooth is disabled. Please enable it.</string>
+	<string name="bt_fail_connection">An error occured while connecting to bluetooth device. Try again.</string>
+	<string name="bt_list_no_device">Remote controller is not on list</string>
+	<string name="bt_need_pair">Bluetooth device need to be paired.</string>
+	<string name="bt_need_pair_info">To show remote controller on list, you must pair it with  your phone once.  Click OK to enter Bluetooth Setting and pair your device with remote controll.</string>
+	<string name="bt_selection">Select your remote controller</string>
+	<string name="bt_unavailable">Bluetooth is unavailable. Exit.</string>
+	<string name="bt_unsupported">Bluetooth is unsupported on your device. Exit.</string>
+	
+	<string name="find_blink_led">Blink LED</string>
+	<string name="find_exit">Press to disconnect and exit</string>
+	<string name="find_ring_vib">Ring VIBRATION</string>
+	
+	<string name="help_qna">Q. Bluetooth connection keeps failing.\n A. There are many cases about failing bluetooth connection, many of them are these\n  1. Already connected to another device\n   If the bluetooth device is connected with another device  like phone, tablet, your connection  might be failed. Try after disconnecting with them.\n  2. Battery is lack\n   If your remote controll battery is  almost used, the bluetooth chipset might get lack power supply. Try after changing to new battery.\n  3. Other electronic devices  are distracting bluetooth connection\n   Other electronic devices(Wireless Headphones, Smart Watch, ETC.) might distract bluetooth connection. Try again after remove or move them.\n\nDeveloper : Republic of Korea, Sungbo High School 3rd Grade Yongmin-Yoo</string>
+	
+	<string name="main_find_remote">Find Remote Controller</string>
+	<string name="main_help">HELP</string>
+	
+</resources>
