@@ -13,7 +13,7 @@
 ## 동작 구조 || How does it work?
 
 <div style="position:absoulte;width:100%;height:100%;">
-  <img width="600" style="position:absoulte;width:100%;height:100%;" src="/Images/how_works.png"/>
+  <img width="600" style="position:absoulte;width:100%;height:100%;" src="/Images/img_how_works.png"/>
 </div>
 
 ## 완성 예시 || Complete example
@@ -42,7 +42,7 @@
   * Make Arduino device like this image. You can change LED and Vibration Motor to everything like speaker, if you want.
 
 <div style="position:absoulte;width:100%;height:100%;">
-  <img width="600" style="position:absoulte;width:100%;height:100%;" src="/ArduinoDevice/HowToConnect.png"/>
+  <img width="600" style="position:absoulte;width:100%;height:100%;" src="/Arduino Device/HowToConnect.png"/>
 </div>
 
   * 구성된 Arduino 기기에 소스코드를 업로드합니다. 소스코드는 `/ArduinoDevice/Main_Sketch.ino` 파일입니다.
